@@ -1,4 +1,4 @@
-### Hi there, Shu Ting here! 👋
+### Hi there, ShuTing here! 👋
 _(she/her)_ 💫
 
 I'm currently pursuing my bachelor's degree in __Computer Science__ (B.Sc) at the [University of British Columbia](https://www.ubc.ca/), progressing through my career journey as a __software engineer__ and doing the occasional dabble into __design__.
